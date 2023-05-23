@@ -1,6 +1,6 @@
 # MusicBERT Offical
 
-This repository is implementation of "Systematic Analysis of Music Representations from BERT".
+This repository is the implementation of "Systematic Analysis of Music Representations from BERT".
 
 
 ## Getting Started
