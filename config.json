@@ -1,0 +1,19 @@
+{
+    "random_seed": 0,
+    "batch_size": 24,
+    "num_workers": 16,
+    "dim": 768,
+    "depth": 12,
+    "heads": 12,
+    "max_len": 512,
+    "rate": 0,
+    "masking": 0.8,
+    "replace": 0.1,
+    "loss_weights": [1, 0.1],
+    "lr": 1e-4,
+    "epochs": 3,
+    "warm_up": 10000,
+    "temp": 0.1,
+    "gpus": [0],
+    "mode": "BERT-neighbor"
+}
